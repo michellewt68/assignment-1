@@ -1,6 +1,6 @@
 # assignment-1
 
-# Kelompok 4
-# Calvin
-# Michelle
-# Nathan
+Kelompok 4
+Calvin
+Michelle
+Nathan
